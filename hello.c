@@ -11,6 +11,9 @@
 
     printf("Darian Sokpa!\n");
     printf("Computer Science\n");
+  
+    printf("William Thompson!\n");
+    printf("Computer Science\n");
 
      return 0;
 
